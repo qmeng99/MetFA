@@ -2,7 +2,7 @@
 Code for paper ''Unsupervised Cross-domain Image Classificationby Distance Metric Guided Feature Alignment''
 
 <p align="center">
-    <img src="images/method.png" width="85%" height="85%">
+    <img src="Images/method.png" width="85%" height="85%">
 </p>
 
 
