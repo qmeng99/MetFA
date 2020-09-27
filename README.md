@@ -10,11 +10,10 @@ If you make use of the code, please cite the paper in any resulting publications
 
 
 ```
-@article{mengMetFA,
+@inproceedings{mengMetFA,
   title={Unsupervised Cross-domain Image Classificationby Distance Metric Guided Feature Alignment},
   author={Meng, Qingjie and Rueckert, Daniel and Kainz, Bernhard},
-  volume ={arXiv:2008.08433},
-  journal = {CoRR},
+  booktitle = {Advances in Simplifying Medical UltraSound (MICCAI ASMUS workshop)},
   year={2020}
 }
 ```
